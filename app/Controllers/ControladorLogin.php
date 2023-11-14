@@ -23,8 +23,11 @@ class ControladorLogin extends BaseController
 
     public function menu()
     {
-        $usuarios = $this->modeloLogin->orderBy('no_cuenta','asc')->findall();
-        return view('menus/menuprincipal');
+        if ($user = $this->session->get('user')) {
+            return view('menus/menuprincipal');
+        }else {
+            return redirect()->to('login');
+        }
     }
 
     public function authenticate()
