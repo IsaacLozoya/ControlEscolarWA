@@ -9,6 +9,7 @@ $routes->get('/', 'Home::index');
 $routes->get('login', 'ControladorLogin::index');
 $routes->post('authenticate', 'ControladorLogin::authenticate');
 $routes->get('menuprincipal', 'ControladorLogin::menu');
+$routes->get('kardex', 'ControladorLogin::kardex');
 
 
 

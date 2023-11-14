@@ -20,7 +20,7 @@ $nombre = session('nombre');
                 <div class="menu">
                     <nav>
                         <ul>
-                            <li><a href="#">Constancia de Kardex</a></li>
+                            <li><a href="<?= base_url('kardex'); ?>">Constancia de Kardex</a></li>
                             <li><a href="#">Constancia de Estudio</a></li>
                             <li><a href="#">Credencial de Estudio</a></li>
                             <li><a href="https://www.uas.edu.mx/servicios/calendario/">Calendario Escolar</a></li>

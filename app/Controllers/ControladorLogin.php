@@ -30,6 +30,19 @@ class ControladorLogin extends BaseController
         }
     }
 
+
+    public function kardex()
+    {
+        if ($user = $this->session->get('user')) {
+            return view('menus/kardex');
+        }else {
+            return redirect()->to('login');
+        }
+    }
+
+
+
+
     public function authenticate()
     {
         $noCuenta = $this->request->getPost('no_cuenta');
