@@ -139,7 +139,7 @@ header {
 /* CARDS */
 
 .container__card-primary{
-    padding-top: 100px;
+    padding-top: 25px;
 
 }
 
@@ -248,8 +248,8 @@ header {
       top: 0;
       z-index: 0;
       overflow: hidden;
-      background-image: url(https://cdn.discordapp.com/attachments/909685205336477767/1032529547280797776/Fondo.jpg?ex=654c7193&is=6539fc93&hm=c18204070a427bacd7c0a90148049203f0432fbe71af137468bb682269df16d2&);
-  }
+      background-image: url(/assets/imgs/loginbackground.png);
+    }
   .flex-flex {
       display: flex;
   }
@@ -416,6 +416,56 @@ header {
     font-weight: bold;
     line-height: 25px;
 }
+
+
+    .custom-btn-color {
+        background-color: #0C223E !important;
+        /* Otros estilos que desees aplicar al botón */
+    }
+
+    /* (Manten el CSS anterior) */
+
+    #drop-area {
+        border: 2px dashed #ccc;
+        border-radius: 8px;
+        padding: 40px;
+        text-align: center;
+        transition: border 0.3s ease;
+      }
+      
+      #drop-area:hover {
+        border: 2px dashed #3498db;
+      }
+      
+      #file-label {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: #777;
+      }
+      
+      #file-label i {
+        font-size: 40px;
+        margin-bottom: 10px;
+      }
+      
+      #file-input {
+        display: none;
+      }
+      
+      #file-list {
+        margin-top: 20px;
+        text-align: left;
+      }
+      
+      .file-item {
+        background-color: #3498db;
+        color: #fff;
+        padding: 5px;
+        margin-bottom: 5px;
+        border-radius: 4px;
+      }
+  
   
 
   

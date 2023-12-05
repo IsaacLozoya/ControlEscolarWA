@@ -7,6 +7,7 @@
 // Obtener los datos del usuario desde la sesión
 $user = session('user');
 $nombre = session('nombre');
+$rol = session('rol_id');
 ?>
     <body>
         <header>
@@ -19,24 +20,43 @@ $nombre = session('nombre');
 
                 <div class="menu">
                     <nav>
-                        <ul>
-                            <li><a href="<?= base_url('kardex'); ?>">Constancia de Kardex</a></li>
-                            <li><a href="#">Constancia de Estudio</a></li>
-                            <li><a href="#">Credencial de Estudio</a></li>
-                            <li><a href="https://www.uas.edu.mx/servicios/calendario/">Calendario Escolar</a></li>
-                            <li><a href="<?= base_url('login'); ?>">Salir</a></li>
-                        </ul>
+                        <?php if ($rol == 0) : ?>
+                            <ul>
+                                <li><a href="<?= base_url('boletas/kardex'); ?>">Boleta de Calificaciones</a></li>
+                                <li><a href="#">Constancia de Estudio</a></li>
+                                <li><a href="<?= base_url('justificantes')?>">Solicitar Justificantes</a></li>
+                                <li><a href="<?= base_url('admin')?>">Administrador</a></li>
+                                <!--   AJAX    <li><a href="#" id="loadAdmin">Administrador</a></li>   -->
+                                <li><a href="<?= base_url('login'); ?>">Salir</a></li>
+                            </ul>
+                        <?php elseif ($rol != 0) : ?>
+                            <ul>
+                                <li><a href="<?= base_url('boletas/kardex'); ?>">Boleta de Calificaciones</a></li>
+                                <li><a href="#">Constancia de Estudio</a></li>
+                                <li><a href="<?= base_url('justificantes')?>">Solicitar Justificantes</a></li>
+                                <li><a href="https://www.uas.edu.mx/servicios/calendario/">Calendario Escolar</a></li>
+                                <li><a href="<?= base_url('login'); ?>">Salir</a></li>
+                            </ul>
+                        <?php endif; ?>
+
                     </nav>
                 </div>
                 
             </div>
         </header>
 
-        <main>
+
+    </body>
+
+    <!--  contenedor para menu principal   
+    <div id="menuprincipalContainer">
+-->
+
+    <main>
             <div class="container__cover div__offset">
                 <div class="cover">
                     <section class="text__cover">
-                        <h1>Bienvenido Alumno: <?= $nombre; ?></h1>
+                        <h1>Bienvenid@: <?= $nombre; ?></h1>
                         <p>
                             Estimado Alumno, no te dejes engañar por falsos gestores, ninguna persona de la Universidad te llama para ofrecer cambios de calificaciones, esto es ilegal y es un delito, puedes ser expulsado de la Universidad por incurrir en dichas acciones, dado que incurres en los Artículos 18, 54 y 55 del Reglamento Escolar.</p>
                     </section>
@@ -64,14 +84,14 @@ $nombre = session('nombre');
 
                         <div class="card__trust box__card-primary">
                             <img src="<?= base_url('assets/imgs/Kardex.png'); ?>" alt="Kardex">
-                            <h2>Constancia de Kardex</h2>
+                            <h2>Boleta de Calificaciones</h2>
                             <p>Solicitar un kardex académico es un proceso similar a solicitar una constancia de estudio. </p>
                         </div>
 
                         <div class="card__trust box__card-primary">
                             <img src="<?= base_url('assets/imgs/credencial.png'); ?>" alt="Credencial">
-                            <h2>Credencial de Estudio</h2>
-                            <p>Solicitar una credencial de estudio generalmente sigue un proceso distinto, ya que implica la creación de una identificación estudiantil.</p>
+                            <h2>Solicitar Justificantes</h2>
+                            <p>Aquí solicitará su justificante y explicará la situacion por la cual no se pudo presentar con pruebas.</p>
                         </div>
                     </div>
                 </div>
@@ -87,6 +107,9 @@ $nombre = session('nombre');
 <?php endif; ?>
             </div>
         </main>
-    </body>
+    </div>
+        <!--  contenedor para pagina admin.php 
+    <div id="adminContainer"></div>
+  -->
 
 <?= $this->endSection(); ?>

@@ -1,0 +1,42 @@
+INFO - 2023-11-15 23:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-15 23:27:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH/Controllers/ControladorLogin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/cristopherrivas/Downloads/ControlEscolarWA-main/public/index.php')
+INFO - 2023-11-15 23:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-15 23:27:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH/Controllers/ControladorLogin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/cristopherrivas/Downloads/ControlEscolarWA-main/public/index.php')
+INFO - 2023-11-15 23:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-15 23:27:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH/Controllers/ControladorLogin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/cristopherrivas/Downloads/ControlEscolarWA-main/public/index.php')
+INFO - 2023-11-15 23:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-15 23:27:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH/Controllers/ControladorLogin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/cristopherrivas/Downloads/ControlEscolarWA-main/public/index.php')
+INFO - 2023-11-15 23:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-15 23:47:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH/Controllers/ControladorLogin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/cristopherrivas/Downloads/ControlEscolarWA-main/public/index.php')
+INFO - 2023-11-15 23:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-15 23:47:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH/Controllers/ControladorLogin.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/cristopherrivas/Downloads/ControlEscolarWA-main/public/index.php')

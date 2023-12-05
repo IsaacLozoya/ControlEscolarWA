@@ -18,30 +18,11 @@ class ControladorLogin extends BaseController
 
     public function index()
     {
+        $this->session->destroy();
         return view('menus/login');
     }
 
-    public function menu()
-    {
-        if ($user = $this->session->get('user')) {
-            return view('menus/menuprincipal');
-        }else {
-            return redirect()->to('login');
-        }
-    }
-
-
-    public function kardex()
-    {
-        if ($user = $this->session->get('user')) {
-            return view('menus/kardex');
-        }else {
-            return redirect()->to('login');
-        }
-    }
-
-
-
+    
 
     public function authenticate()
     {
@@ -55,6 +36,15 @@ class ControladorLogin extends BaseController
             // Credenciales válidas, inicia sesión
             $this->session->set('user', $user);
             $this->session->set('nombre', $user['nombre']);
+            $this->session->set('sexo', $user['sexo']);
+            $this->session->set('fecha_nacimiento', $user['fecha_nacimiento']);
+            $this->session->set('fecha_ingreso', $user['fecha_ingreso']);
+            $this->session->set('codigo_postal', $user['codigo_postal']);
+            $this->session->set('poblacion', $user['poblacion']);
+            $this->session->set('localidad', $user['localidad']);
+            $this->session->set('telefono', $user['telefono']);
+            $this->session->set('afiliacion_imss', $user['afiliacion_imss']);
+            $this->session->set('rol_id', $user['rol_id']);
             return redirect()->to('menuprincipal')->with('success', 'Inicio de sesión exitoso');
         } else {
             // Credenciales inválidas, muestra un mensaje de error
@@ -62,9 +52,6 @@ class ControladorLogin extends BaseController
             return redirect()->to('login');
         }
     }
-    
-
-
 
 
 }

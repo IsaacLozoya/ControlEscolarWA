@@ -1,0 +1,1167 @@
+INFO - 2023-11-26 07:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:15:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:15:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:15:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:15:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:15:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:16:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:17:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:17:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:17:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:17:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorAdmin::$session is deprecated in APPPATH\Controllers\ControladorAdmin.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorAdmin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:17:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorAdmin::$session is deprecated in APPPATH\Controllers\ControladorAdmin.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorAdmin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorAdmin::$session is deprecated in APPPATH\Controllers\ControladorAdmin.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorAdmin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorAdmin::$session is deprecated in APPPATH\Controllers\ControladorAdmin.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorAdmin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorAdmin::$session is deprecated in APPPATH\Controllers\ControladorAdmin.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorAdmin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:18:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:22:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:22:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:22:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:22:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:22:03 --> Undefined property: App\Controllers\ControladorMenu::$session
+in APPPATH\Controllers\ControladorMenu.php on line 16.
+ 1 APPPATH\Controllers\ControladorMenu.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ControladorMenu::$session', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Controllers\\ControladorMenu.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->menu()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:23:29 --> Undefined property: App\Controllers\ControladorMenu::$session
+in APPPATH\Controllers\ControladorMenu.php on line 16.
+ 1 APPPATH\Controllers\ControladorMenu.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ControladorMenu::$session', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Controllers\\ControladorMenu.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->menu()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:24:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:27:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:27:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:27:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:28:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:28:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:32:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:32:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:32:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:32:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:32:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:32:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:32:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:32:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:34:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:39:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:40:00 --> Undefined variable $curriculo
+in APPPATH\Views\menus\visualkardex.php on line 33.
+ 1 APPPATH\Views\menus\visualkardex.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $curriculo', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('menus/visualkardex', [], true)
+ 5 APPPATH\Controllers\ControladorMenu.php(50): view('menus/visualkardex', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:41:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:41:27 --> Undefined variable $curriculo
+in APPPATH\Views\menus\visualkardex.php on line 33.
+ 1 APPPATH\Views\menus\visualkardex.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $curriculo', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('menus/visualkardex', [], true)
+ 5 APPPATH\Controllers\ControladorMenu.php(50): view('menus/visualkardex', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:41:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:41:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:41:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:41:31 --> Undefined variable $curriculo
+in APPPATH\Views\menus\visualkardex.php on line 33.
+ 1 APPPATH\Views\menus\visualkardex.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $curriculo', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php', 33)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('menus/visualkardex', [], true)
+ 5 APPPATH\Controllers\ControladorMenu.php(50): view('menus/visualkardex', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:44:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:44:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:44:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:44:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:44:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:45:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:45:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:45:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:45:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:45:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:45:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:45:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:45:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:45:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:45:41 --> Undefined array key "materia"
+in APPPATH\Views\menus\visualkardex.php on line 35.
+ 1 APPPATH\Views\menus\visualkardex.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "materia"', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php', 35)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('menus/visualkardex', [], true)
+ 5 APPPATH\Controllers\ControladorMenu.php(55): view('menus/visualkardex', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:48:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:48:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:48:57 --> Undefined property: App\Controllers\ControladorMenu::$modeloSemestre
+in APPPATH\Controllers\ControladorMenu.php on line 55.
+ 1 APPPATH\Controllers\ControladorMenu.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\ControladorMenu::$modeloSemestre', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Controllers\\ControladorMenu.php', 55)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:49:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:49:17 --> Undefined array key "materia"
+in APPPATH\Views\menus\visualkardex.php on line 35.
+ 1 APPPATH\Views\menus\visualkardex.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "materia"', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php', 35)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('menus/visualkardex', [], true)
+ 5 APPPATH\Controllers\ControladorMenu.php(58): view('menus/visualkardex', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:49:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:49:39 --> Undefined array key "materia"
+in APPPATH\Views\menus\visualkardex.php on line 35.
+ 1 APPPATH\Views\menus\visualkardex.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "materia"', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php', 35)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('menus/visualkardex', [], true)
+ 5 APPPATH\Controllers\ControladorMenu.php(58): view('menus/visualkardex', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:49:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:52:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:52:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:54:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:54:05 --> Undefined variable $no_cuenta
+in APPPATH\Controllers\ControladorMenu.php on line 59.
+ 1 APPPATH\Controllers\ControladorMenu.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $no_cuenta', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Controllers\\ControladorMenu.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:54:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:55:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:55:26 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\ControladorMenu.php on line 48.
+ 1 APPPATH\Controllers\ControladorMenu.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Controllers\\ControladorMenu.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:57:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:59:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:59:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 07:59:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 07:59:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+CRITICAL - 2023-11-26 07:59:22 --> Undefined array key "carrera"
+in APPPATH\Views\menus\visualkardex.php on line 18.
+ 1 APPPATH\Views\menus\visualkardex.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "carrera"', 'C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php', 18)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\app\\Views\\menus\\visualkardex.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('menus/visualkardex', [], true)
+ 5 APPPATH\Controllers\ControladorMenu.php(76): view('menus/visualkardex', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\ControladorMenu->vistakardex()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMenu))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:00:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:00:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:01:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:01:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:01:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:01:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:03:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:03:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:03:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:03:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:03:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:03:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:03:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:03:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:03:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:03:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:03:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:04:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:04:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:04:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:04:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:04:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:04:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:05:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:06:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:06:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:06:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:06:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:06:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:06:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:07:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:07:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:07:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:07:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:08:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:08:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:08:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:09:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:09:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:10:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:10:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:10:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:11:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:11:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:11:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:11:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:11:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorMenu::$session is deprecated in APPPATH\Controllers\ControladorMenu.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorMenu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
+INFO - 2023-11-26 08:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-11-26 08:11:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\ControladorLogin::$session is deprecated in APPPATH\Controllers\ControladorLogin.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\ControladorLogin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\IsaacLozoya\\Desktop\\Control Escolar VERSION GIT\\ControlEscolarWA-main\\public\\index.php')
